@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @asgharsyed11
 - 👀 I’m interested in Web Dev
-- 🌱 I’m currently learning Web Devv
+- 🌱 I’m currently learning Web Dev
 - 💞️ I’m looking to collaborate on Web Dev
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
